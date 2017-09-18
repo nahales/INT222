@@ -1,0 +1,169 @@
+/********************************************************************************* 
+*
+* INT222 – Lab #3a
+*
+* I declare that this assignment is my own work in accordance with Seneca 
+* Academic Policy. No part of this assignment has been copied manually or 
+* electronically from any other source (including web sites) or distributed to 
+* other students. 
+* 
+* Name:  Nahal Esmaeili      Student ID: _106152150       Date: 25 Oct 2016 
+* 
+********************************************************************************/
+
+p	{
+	text-align: left;
+	text-align: justify;
+	font-family: "times new roman";
+}
+
+p	{
+	width:100%;
+	font-size: 16px;
+}
+
+p a:link{
+		text-decoration: none;
+		color: green;
+		border-style: solid;
+		border-color: green;
+		padding: 3px 9px;
+		font-weight: bold;
+		text-align: center;
+}
+
+p a:hover{
+		background-color: #ccffcc;
+		font-style: oblique;
+}
+
+ul	{	
+	list-style-type: square;
+	}
+	
+ol	{
+	list-style-type: lower-roman;		
+}
+
+ul ol	{
+		text-indent: 20px;
+		list-style-position:inside;
+}
+
+td, th	{
+	
+	margin: 25px;
+	padding: 5px 15px;
+	
+}
+
+#table01{
+		border: 2px solid black;
+		border-collapse: collapse;
+		
+}
+
+#table01 td, #table01 th {
+						border: 1px solid black;
+}
+
+
+thead	{
+				background-color: #ccffcc;
+				color: green;		
+}
+
+tfoot	{
+				background-color: #ffcc99;
+				color: #ff9900;		
+}
+
+#tbody02	{
+			background-color: #b3e6ff;
+			color: #00aaff;		
+}
+
+#img_seneca	{
+			width: 20em;
+			height: 7em;
+}
+
+#img_ict	{
+		width: 20em;
+		height:7em;
+}
+
+#audio_fig	{
+		
+		margin: 50px;
+		border: 2px solid orange;
+		padding: 15px 20px;
+}
+
+audio	{
+		width: 100%;
+}
+
+#video_fig	{
+		border: 2px solid red;
+}
+
+video{
+		width: 100%;
+}
+
+figcaption	{
+			text-align: center;
+}
+
+
+
+#ul_seneca	{
+			font-family: "times new roman";
+			font-size: 16px;
+}
+
+div.type1	{
+			 background-color: #ccffcc;
+			 color: green;
+}
+
+#span01	{
+		background-color : green;
+		color : white;
+}
+
+div.type2	{
+			background-color: #ffd9b3;
+				color: #ff9900;
+}
+
+#span02	{
+		background-color: #ff9900; 
+		color: white;
+}
+
+div.type3	{
+			background-color: #d9d9d9;
+				color: #8c8c8c;
+}
+
+#span03	{
+		background-color: #8c8c8c;
+				color: white;
+}
+
+div.type4	{
+			 background-color: #b3e6ff;
+			color: #00aaff;	
+}
+
+#span04	{
+		background-color: #00aaff;
+				color: white;
+}
+
+span.seneca_type	{
+				color: red;
+				font-weight: bold;
+}
